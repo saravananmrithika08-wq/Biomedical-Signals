@@ -6,7 +6,7 @@ Biomedical Engineering coursework to real physiological data.
 
 ## 👩‍💻 About
 - **Student:** Mrithika S
-- **Department:** Biomedical Engineering — 2nd Year
+- **Department:** Biomedical Engineering — 3rd Year
 - **College:** Easwari Engineering College, Anna University
 
 ## 📁 Projects
